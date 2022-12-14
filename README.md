@@ -1,8 +1,8 @@
 # Hi there, I'm Bryan Samperura - aka [BryanFLava](https://www.youtube.com/channel/UCD6Ip1gtWc29_74Vfi2y0Lw) 👋
 ## About me:
 - 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Full Stack Developer
-- 🤔 I’m looking for suggest for AI & Full Stack
+- 👯 I’m looking to collaborate as Frontend Developer
+- 🤔 I’m looking for suggest for AI, Frontend, & UI/UX
 - 💬 Ask me about anything
 - 📫 How to reach me: bryansamperura@gmail.com
 
@@ -10,13 +10,11 @@
 
 #### 1. [Universitas Logistik & Bisnis International](https://www.ulbi.ac.id/) | Bachelor of Applied Informatics Engineering | Bandung `2020 - On Going`
 
- #### 2. [SMA N 1 Biak Kota](https://sman1biak.sch.id/) | MIPA | Biak `2017-2019`
-   - Chief of Dancer Shadow Crew
+#### 2. [SMA N 1 Biak Kota](https://sman1biak.sch.id/) | MIPA | Biak `2017-2019`
 
 
 ### Languages and Tools:
 
-[<img align="left" alt="PHP" width="30px" src="https://www.php.net/images/meta-image.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />][webdev]
