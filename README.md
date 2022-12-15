@@ -1,8 +1,8 @@
 # Hi there, I'm Bryan Samperura - aka [BryanFLava](https://www.youtube.com/channel/UCD6Ip1gtWc29_74Vfi2y0Lw) 👋
 ## About me:
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Frontend Developer
-- 🤔 I’m looking for suggest for AI, Frontend, & UI/UX
+- 🌱 I’m currently learning Python, Javascript, & PHP
+- 👯 I’m looking to collaborate as UI/UX, & Data Science
+- 🤔 I’m looking for suggest for AI, Data Science, & UI/UX
 - 💬 Ask me about anything
 - 📫 How to reach me: bryansamperura@gmail.com
 
