@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate as UI/UX, & Data Science
 - 🤔 I’m looking for suggest for AI, Data Science, & UI/UX
 - 💬 Ask me about anything
-- 📫 How to reach me: bryansamperura@gmail.com
+- 📫 How to reach me: bray.gaull99@gmail.com
 
 ## Education:
 
